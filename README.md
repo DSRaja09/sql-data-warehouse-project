@@ -9,7 +9,7 @@ The goal of this project is to design and implement a structured data warehouse 
 
 Database: Microsoft SQL Server
 
-Editor: Visual Studio Code (VS Code)
+Editor: Visual Studio Code (VS Code), draw.io
 
 Language: SQL
 
